@@ -13,7 +13,6 @@
         ".npmignore": true,
         "node_modules": true,
         ".vscode": true,
-        "tsup.config.ts": true,
         "tsconfig.json": true
     },
     "hide-files.files": [
@@ -25,7 +24,6 @@
         ".npmignore",
         "node_modules",
         ".vscode",
-        "tsup.config.ts",
         "tsconfig.json"
     ]
 }
