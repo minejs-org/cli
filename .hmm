@@ -5,7 +5,7 @@
 	"repo"              : {
 		"org"           : "minejs",
 		"name"          : "cli",
-		"version"       : "0.0.3",
+		"version"       : "0.0.4",
 		"desc"          : "Zero-dependency CLI framework for fast, organized, and validated command-line applications.",
 		"kw"            : ["minejs", "cli"],
 		"license"       : "MIT",
