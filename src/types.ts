@@ -1,4 +1,4 @@
-// src/core/types.d.ts
+// src/core/types.ts
 //
 // Made with ❤️ by Maysara.
 

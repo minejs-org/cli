@@ -1,4 +1,4 @@
-// src/main.ts
+// src/index.ts
 //
 // Made with ❤️ by Maysara.
 
@@ -10,7 +10,7 @@
 
     export * from './core';
     export * from './core/builder';
-    export * from './core/types.d';
+    export * from './types';
 
     export default cli;
 

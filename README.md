@@ -8,7 +8,7 @@
 </div>
 
 <div align="center">
-    <img src="https://img.shields.io/badge/v-0.0.5-black"/>
+    <img src="https://img.shields.io/badge/v-0.0.6-black"/>
     <a href="https://github.com/minejs-org"> <img src="https://img.shields.io/badge/🔥-@minejs-black"/> </a>
     <img src="https://img.shields.io/badge/zero-dependencies-black" alt="zero-dependencies" />
     <br>
@@ -25,14 +25,13 @@
 
 <!-- ╔══════════════════════════════ DOC ══════════════════════════════╗ -->
 
-
 - ## Quick Start 🔥
 
     > _***Zero-dependency CLI framework for fast, organized, and validated command-line applications.***_
 
     - ### Setup
 
-        > install [`hmm`](https://github.com/minejs/hmm) first.
+        > install [`hmm`](https://github.com/minejs-org/hmm) first.
 
         ```bash
         hmm i @minejs/cli

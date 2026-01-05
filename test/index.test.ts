@@ -1,5 +1,5 @@
 /* eslint-disable @typescript-eslint/no-explicit-any */
-// test/main.test.ts
+// test/index.test.ts
 //
 // Made with ❤️ by Maysara.
 
@@ -8,7 +8,7 @@
 // ╔════════════════════════════════════════ PACK ════════════════════════════════════════╗
 
     import { describe, test, expect, beforeEach, afterEach, mock } from 'bun:test';
-    import { cli, CLI } from '../src/main';
+    import { cli, CLI } from '../src';
 
 // ╚══════════════════════════════════════════════════════════════════════════════════════╝
 

@@ -1,6 +1,6 @@
 {
 	"name"                             : "@minejs/cli",
-	"version"                          : "0.0.5",
+	"version"                          : "0.0.6",
 	"description"                      : "Zero-dependency CLI framework for fast, organized, and validated command-line applications.",
 	"keywords"                         : ["minejs", "cli"],
 	"license"                          : "MIT",
@@ -18,15 +18,15 @@
 		"url"                          : "git+https://github.com/minejs-org/cli.git"
 	},
 	"type"                             : "module",
-	"main"                             : "./dist/main.cjs",
-	"module"                           : "./dist/main.js",
-	"types"                            : "./dist/main.d.ts",
+	"main"                             : "./dist/index.cjs",
+	"module"                           : "./dist/index.js",
+	"types"                            : "./dist/index.d.ts",
 	"files"                            : ["dist"],
 	"exports"                          : {
 		"."                            : {
-			"types"                    : "./dist/main.d.ts",
-			"import"                   : "./dist/main.js",
-			"require"                  : "./dist/main.cjs"
+			"types"                    : "./dist/index.d.ts",
+			"import"                   : "./dist/index.js",
+			"require"                  : "./dist/index.cjs"
 		}
 	},
 	"scripts"                          : {
