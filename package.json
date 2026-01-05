@@ -1,6 +1,6 @@
 {
 	"name"                             : "@minejs/cli",
-	"version"                          : "0.0.2",
+	"version"                          : "0.0.3",
 	"description"                      : "Zero-dependency CLI framework for fast, organized, and validated command-line applications.",
 	"keywords"                         : ["minejs", "cli"],
 	"license"                          : "MIT",
