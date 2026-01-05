@@ -1,0 +1,23 @@
+{
+	"type"              : "lib",
+	"template"          : "clean",
+	"pm"                : "bun",
+	"repo"              : {
+		"org"           : "minejs",
+		"name"          : "cli",
+		"version"       : "0.0.1",
+		"desc"          : "Zero-dependency CLI framework for fast, organized, and validated command-line applications.",
+		"kw"            : ["minejs", "cli"],
+		"license"       : "MIT",
+		"issues"        : "https://github.com/minejs-org/cli/issues",
+		"homepage"      : "https://github.com/minejs-org/cli#readme",
+		"git_url"       : "git+https://github.com/minejs-org/cli.git"
+	},
+	"author"            : {
+		"id"            : "maysara-elshewehy",
+		"name"          : "Maysara",
+		"email"         : "maysara.elshewehy@gmail.com",
+		"url"           : "https://github.com/maysara-elshewehy"
+	},
+	"createdAt"         : "2026-01-05T05:18:50.513Z"
+}
